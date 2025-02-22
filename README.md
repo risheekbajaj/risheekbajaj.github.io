@@ -1,54 +1,60 @@
-# 🛒 Deesons App (E-commerce)  
+# Portfolio of Risheek Bajaj  
 
-## 📖 Overview  
-**Deesons App** is a seamless **e-commerce application** built using **Android Studio**. It allows users to **browse products**, **add them to the cart**, **confirm their address**, and **make secure payments**. With a clean UI and intuitive navigation, shopping is made easy and efficient.  
+Welcome to the **Portfolio of Risheek Bajaj**, a showcase of expertise in Data Analysis, Data Engineering, and Power BI Development. This dynamic website is crafted using **HTML, CSS, FontAwesome**, and **Nivo Lightbox** to provide an engaging and interactive experience.
 
-## 🛠️ Features  
-✅ **User Authentication** – Secure login and registration.  
-✅ **Product Catalog** – Browse and search for products.  
-✅ **Add to Cart** – Easily add items to your cart.  
-✅ **Address Confirmation** – Confirm shipping details before purchase.  
-✅ **Payment Gateway** – Secure payment integration.  
-✅ **Order Confirmation** – Instant order summary and confirmation.  
+---
 
-## 🏗️ Built With  
-- **Android Studio** – Main development environment.  
-- **Java/Kotlin** – Programming language.  
-- **Firebase** – User authentication and real-time database.  
-- **Payment Gateway API** – Secure payment processing.  
+## ✨ Key Features  
+- **Modern & Sleek Design** – Crafted for a professional and captivating user experience.  
+- **Responsive Layout** – Flawlessly adapts to mobile, tablet, and desktop screens.  
+- **Interactive Project Showcase** – Powered by Nivo Lightbox for immersive project previews.  
+- **Elegant Icons** – Enhanced with FontAwesome for visually appealing navigation.  
+- **Seamless Navigation** – Smooth transitions and easy access to all sections.  
 
-## 🚀 Installation & Usage  
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/risheekbajaj/Deesons-App-E-commerce-.git
-   cd Deesons-App-E-commerce-
-   ```
-2. **Open in Android Studio**  
-3. **Build and Run** on an Android Emulator or physical device.  
+---
 
-## 🎮 User Flow  
-1. **Login or Register** – Start by logging in or signing up.  
-2. **Browse Products** – Explore a wide range of products.  
-3. **Add to Cart** – Select products and add them to your cart.  
-4. **Confirm Address** – Enter and confirm your shipping address.  
-5. **Make Payment** – Complete the purchase using a secure payment gateway.  
-6. **Order Confirmation** – Receive an order summary and confirmation.  
+## 🔥 What’s Inside  
+1. **Home** – A warm welcome with a glimpse of who I am.  
+2. **About Me** – Insight into my journey and what drives me.  
+3. **Skills** – Showcasing expertise in Data Analysis, Power BI, and more.  
+4. **Education** – Academic achievements and specializations.  
+5. **Certifications** – Professional milestones and credentials.  
+6. **Experience** – A glance at my career path and impactful roles.  
+7. **Projects** – Interactive previews of my best works, powered by Nivo Lightbox.  
+8. **Achievements** – Celebrating key accomplishments and recognitions.  
+9. **Contact** – Get in touch easily with an integrated contact form and social links.  
 
-## 📸 Screenshots  
-- ![Home Screen](https://github.com/risheekbajaj/Deesons-App-E-commerce-/blob/main/ss1.jpg)  
-- ![Create Account](https://github.com/risheekbajaj/Deesons-App-E-commerce-/blob/main/ss2.jpg)
-- ![Login Screen](https://github.com/risheekbajaj/Deesons-App-E-commerce-/blob/main/ss3.jpg)
-- ![Product catalogue](https://github.com/risheekbajaj/Deesons-App-E-commerce-/blob/main/ss4.jpg)
-- ![Product catalogue](https://github.com/risheekbajaj/Deesons-App-E-commerce-/blob/main/ss5.jpg)  
-- ![Product Details](https://github.com/risheekbajaj/Deesons-App-E-commerce-/blob/main/ss6.jpg)  
-- ![Address Confirmation](https://github.com/risheekbajaj/Deesons-App-E-commerce-/blob/main/ss7.jpg)
-  
-## 🚀 Future Enhancements  
-- Add **wishlist functionality**.  
-- Implement **push notifications** for order updates.  
-- Support for **multiple payment gateways**.  
+---
+
+## 🚀 Tech Stack  
+- **HTML** – For robust structure and layout.  
+- **CSS** – To create a visually appealing and responsive design.  
+- **FontAwesome** – Enriching the UI with stylish icons.  
+- **Nivo Lightbox** – Bringing projects to life with interactive previews.  
+
+---
+
+## 🎨 Customization  
+- **Edit Content** – Personalize the text and images directly in the HTML files.  
+- **Change Styles** – Modify the CSS to reflect your unique branding.  
+- **Add Projects** – Easily include more projects with stunning lightbox effects.  
+
+---
+
+## ⚡ Acknowledgements  
+- **Nivo Lightbox** – For sleek and immersive project displays.  
+- **FontAwesome** – For beautifully crafted icons.  
+
+---
 
 ## 📜 License  
-This project is open-source under the **MIT License**.  
+This portfolio is open-source and available under the MIT License.  
 
-Happy Shopping! 🛒🎉  
+---
+
+## 📞 Let’s Connect  
+Want to collaborate or just say hi? Feel free to reach out via the contact form or connect on [LinkedIn](https://www.linkedin.com/in/risheekbajaj).  
+
+---
+
+Ready to explore my journey? Dive in and get inspired!
