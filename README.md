@@ -53,7 +53,7 @@ This portfolio is open-source and available under the MIT License.
 ---
 
 ## 📞 Let’s Connect  
-Want to collaborate or just say hi? Feel free to reach out via the contact form or connect on [LinkedIn](https://www.linkedin.com/in/risheekbajaj).  
+Want to collaborate or just say hi? Feel free to reach out via the contact form or connect on [LinkedIn](www.linkedin.com/in/risheek-bajaj).  
 
 ---
 
